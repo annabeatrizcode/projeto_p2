@@ -1,0 +1,81 @@
+# 🎸 Projeto P2 — KISS
+
+## 📌 Sobre o projeto
+
+Este projeto foi desenvolvido como parte da atividade **P2**, com o objetivo de criar um site informativo sobre a banda **KISS**.
+
+O site apresenta informações sobre a história da banda, seus integrantes, discografia, shows, clipes, curiosidades e sua influência na cultura popular.
+
+## 🎤 Sobre o KISS
+
+O **KISS** é uma banda norte-americana de hard rock formada em **Nova York, em 1973**.
+
+A banda ficou conhecida por suas músicas, apresentações marcantes, figurinos e grandes produções de palco.
+
+## 🌐 Páginas do site
+
+* 🏠 Início
+* 📖 História da banda
+* 👥 Integrantes
+* 💿 Discografia
+* 🎬 Shows e clipes
+* ⭐ Curiosidades
+
+## 🏷️ Tags HTML utilizadas
+
+<html>
+<head>
+<meta>
+<title>
+<body>
+<header>
+<main>
+<section>
+<article>
+<footer>
+<nav>
+<div>
+<span>
+<h1>
+<h2>
+<h3>
+<p>
+<strong>
+<em>
+<br>
+<a>
+<img>
+<audio>
+<source>
+<video>
+<ul>
+<ol>
+<li>
+<table>
+<tr>
+<th>
+<td>
+<thead>
+<tbody>
+
+
+## 💻 Tecnologias utilizadas
+
+* HTML5
+* CSS
+* GitHub
+* GitHub Pages
+
+## 🎯 Objetivo
+
+Praticar o desenvolvimento de páginas web utilizando HTML, trabalhando com estrutura, organização de conteúdo, imagens, links, mídias e navegação entre páginas.
+
+## 👩‍💻 Autora
+
+**Anna Beatriz**
+
+Projeto desenvolvido para fins acadêmicos.
+
+---
+
+🎸 **KISS — Rock and Roll All Nite!**
